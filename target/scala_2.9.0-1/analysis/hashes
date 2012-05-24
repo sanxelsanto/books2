@@ -1,0 +1,10 @@
+#Source Hashes
+#Thu May 24 10:10:22 CDT 2012
+src/main/scala/code/snippet/HelloWorld.scala=de230f51dc065543636a40e9d2d204f30f1bc04d
+src/main/scala/bootstrap/liftweb/Boot.scala=8d38375abdb027714546545410eae7931dd3c71f
+src/main/scala/code/lib/DependencyFactory.scala=e5d94ad2d69afe24876734d3cc8549a5f3a7c7fd
+src/main/scala/code/model/Books.scala=ae78537792eeb837f1d3878c591aa589076e7751
+src/main/scala/code/snippet/BooksForm.scala=0f8de9ebbfeaee55b1d146af6c7b3eb680d53884
+src/main/scala/code/model/User.scala=780b064f75cfd7994521dd78fe932cc0fa9729ea
+src/main/scala/code/snippet/CreateBook.scala=9c8a5f365334d9c52540b33e737f08cfca424603
+src/main/scala/code/snippet/AjaxExample.scala=1183a5a2de2a80ccca6d4f768295f8343e550bb1
